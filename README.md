@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**suziwen/suziwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一介村夫，出生于南，求学于北，流落于天地间。<br/>
+社恐携带者，码宅油腻大叔，快乐水瘾君子，生活邋遢，好吃懒做。<br/>
+事瞎忙，无一成。<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻伪开发爱好者，曾梦想用技术改变生活。🫰
+
+怎奈半路出家，悟性有限，烂泥扶不上墙，朽木不可雕也。<br/>
+看不懂 javascript，写不了 java，一敲代码就想睡，一碰游戏就通宵；<br/>
+没学过数据结构，不知道何为算法，只会钢镚儿一个一个的数；<br/>
+不谙代码设计模式，只会一个函数一把梭，别人是曲中求，我只想直中取；<br/>
+发现 bug 就重启，还是不行就恶语相向，拳脚相加于机箱，成大业者，或许莫过于此吧；<br/>
+搞不明白大数据，学不会 AI，跟不上现代化，只会`1+1=2`，完全不理解为什么 `1+1=10`。
+
+
+
+又迫于生活压力，<br/>
+只得借着站在 Chrome， CodeMirror 巨人肩膀上，偷粱换柱，暗度陈仓。<br/>
+改一两行注释，换个皮囊，取名**小书匠**，<br/>
+还不知廉耻，<br/>
+竟大言不惭地宣称**本地优先，去中心化，选择性同步的全平台笔记软件**，<br/>
+以此换得几个香烟钱。
+
+
+
+外行人不明觉厉，内行人不屑于此，<br/>
+而我，却自行麻痹，陶醉于此。<br/>
+
+
+
+## 🤠白日梦想家，曾梦想丈剑走天涯，一骑🚵‍♂️动山河。
+
+
+走京杭，骑川藏，闯关东，环台湾，赏独库，踏新藏
+
+
+一个人，十两钱，<br/>
+百米浪，千股风，万里路。
+
+
+纵横山水，<br/>
+同日月行，<br/>
+与星河语，<br/>
+挥斥方遒。
+
+
+
+可否？
+
+醒来后，<br/>
+还是千篇一律，原地不动。
+
+
+![](./default.jpeg)
